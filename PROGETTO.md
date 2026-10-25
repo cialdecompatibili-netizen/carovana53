@@ -34,3 +34,11 @@ Home, Partenze (elenco + filtri), Scheda viaggio, Destinazioni, Coordinatori, Co
 - Solo maggiorenni; niente contenuti per minori.
 - NON copiare testi, foto, loghi o nomi di WeRoad: tutto originale nostro. Prezzi, date e partner sono dati demo finche' non ci sono accordi.
 - Colori solo da `_data/tema.json`; commit selettivi; pubblicare con `..\pubblica.ps1`.
+
+## STATO (25/10/2026) - FINITO oggi
+- FATTO: repo creata dal template mistraltemplate1 con nuovo_sito.ps1 (IT+EN, accento verde #1f7a5c, shop spento), online su https://cialdecompatibili-netizen.github.io/carovana53/ (admin: /admin/).
+- FATTO: bozza della home in italiano (hero, partenze, chi viaggia, come funziona) e questo PROGETTO.md. Blocco contesto spento (numeri finti).
+- Build di Pages NON verificata: controllare che il sito sia online.
+- Famiglia: carovana18 (18-35), carovana35 (35-53), carovana53 (53 in su), stessa struttura.
+- RESTA, in ordine: 1) guardare la home e dire cosa cambiare; 2) home in inglese; 3) pagina Partenze + 2-3 viaggi di esempio; 4) blocco Altre fasce d'eta; 5) email, whatsapp, contact_endpoint in _config.yml; 6) coordinatori e Chi siamo.
+
